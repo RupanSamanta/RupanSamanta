@@ -1,8 +1,6 @@
 ### Hi there!
 I'm [Rupan](https://github.com/RupanSamanta), a CSE student, aspiring Software Developer. I have intereset in Full Stack Developement, currently focusing on learning MERN Stack.
 
----
-
 ### Currently focused on
 - ReactJS
 - Tailwind CSS
@@ -11,8 +9,6 @@ I'm [Rupan](https://github.com/RupanSamanta), a CSE student, aspiring Software D
 ### My Skills
 - Languages: Java, JavaScript, Tailwind CSS, CSS, SCSS, HTML
 - Tools: NodeJS, React, Git, GitHub, VS Code
-
----
 
 ### Projects
 - [2048 Game](https://rupansamanta.github.io/2048/) - A classic and addictive puzzle game where you combine tiles to reach the 2048 tile
