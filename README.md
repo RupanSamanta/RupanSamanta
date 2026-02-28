@@ -2,9 +2,9 @@
 I'm [Rupan](https://github.com/RupanSamanta), a CSE student, aspiring Software Developer, currently invested in MERN Stack.
 
 ### Currently focused on
-- Learning ReactJS
-- Tailwind CSS with React
-- DSA in Java (learning to solve problems in efficient way
+- Learning ReactJS, making complex, dynamic, and interactive UI effortless
+- Simplifying styling web using Tailwind CSS with React
+- DSA in Java (learning to solve problems in efficient way)
 
 ### My Skills
 - **Languages**: &nbsp;&nbsp;
