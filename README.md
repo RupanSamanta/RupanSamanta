@@ -2,24 +2,24 @@
 I'm [Rupan](https://github.com/RupanSamanta), a CSE student, aspiring Software Developer. I have intereset in Full Stack Developement, currently focusing on learning MERN Stack.
 
 ### Currently focused on
-- ReactJS
-- Tailwind CSS
-- DSA in Java
+- Learning ReactJS
+- Tailwind CSS with React
+- DSA in Java (learning to solve problems in efficient way)
 
 ### My Skills
-- **Languages**:
-    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18" alt="java logo"  /> Java
-    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" alt="javascript logo"  /> JavaScript
-    - <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="18" alt="tailwindcss logo"  /> Tailwind CSS
-    -  <img src="https://cdn.simpleicons.org/sass/CC6699" height="18" alt="sass logo"  /> SCSS
-    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18" alt="css logo"  /> CSS
-    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18" alt="html5 logo"  /> HTML
-- **Tools**:
-    - <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="18" alt="nodejs logo"  /> NodeJS
-    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react logo"  /> React
-    - <img src="https://cdn.simpleicons.org/git/F05032" height="18" alt="git logo"  /> Git
-    - <img src="https://skillicons.dev/icons?i=github" height="18" alt="github logo"  /> GitHub
-    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="18" alt="vscode logo"  /> VS Code
+- **Languages**: &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18" alt="java logo"  /> Java &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" alt="javascript logo"  /> JavaScript &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="18" alt="tailwindcss logo"  /> Tailwind CSS &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/sass/CC6699" height="18" alt="sass logo"  /> SCSS &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18" alt="css logo"  /> CSS &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18" alt="html5 logo"  /> HTML &nbsp;&nbsp;
+- **Tools**: &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="18" alt="nodejs logo"  /> NodeJS &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react logo"  /> React &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/git/F05032" height="18" alt="git logo"  /> Git &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" height="18" alt="github logo"  /> GitHub &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="18" alt="vscode logo"  /> VS Code &nbsp;&nbsp;
 
 ### Projects
 - [2048 Game](https://rupansamanta.github.io/2048/) - A classic and addictive puzzle game where you combine tiles to reach the 2048 tile
