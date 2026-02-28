@@ -4,7 +4,7 @@ I'm [Rupan](https://github.com/RupanSamanta), a CSE student, aspiring Software D
 ### Currently focused on
 - Learning ReactJS
 - Tailwind CSS with React
-- DSA in Java (learning to solve problems in efficient way)
+- DSA in Java (learning to solve problems in efficient way
 
 ### My Skills
 - **Languages**: &nbsp;&nbsp;
