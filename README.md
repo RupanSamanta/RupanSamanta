@@ -1,5 +1,5 @@
 ### Hi there!
-I'm [Rupan](https://github.com/RupanSamanta), a CSE student, aspiring Software Developer. I am learning to become a Full Stack Developement.
+I'm [Rupan](https://github.com/RupanSamanta), a CSE student, aspiring Software Developer, currently invested in MERN Stack.
 
 ### Currently focused on
 - Learning ReactJS
