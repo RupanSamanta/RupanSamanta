@@ -1,5 +1,9 @@
-### Hi there!
-I'm [Rupan](https://github.com/RupanSamanta), a CSE student, aspiring Software Developer, currently invested in MERN Stack.
+# Hi, I'm [Rupan](https://github.com/RupanSamanta) 👋
+
+🎓 CSE (AI & ML) Student
+💻 Full Stack Web Developer (MERN)
+☕ Java & DSA Enthusiast
+🚀 Building interactive web applications and developer tools.
 
 ### Currently focused on
 - Learning MERN, making complex, dynamic, and interactive UI effortless
