@@ -1,13 +1,16 @@
-# Hi, I'm [Rupan](https://github.com/RupanSamanta) 👋
+## Hi, I'm [Rupan](https://github.com/RupanSamanta) 👋
 
-🎓 CSE (AI & ML) Student
-💻 Full Stack Web Developer (MERN)
-☕ Java & DSA Enthusiast
-🚀 Building interactive web applications and developer tools.
+- 🎓 CSE (AI & ML) Student
+- 💻 Full Stack Web Developer (MERN)
+- ☕ Java & DSA Enthusiast
+- 🚀 Building interactive web applications and developer tools.
 
-### Currently focused on
-- Learning MERN, making complex, dynamic, and interactive UI effortless
-- DSA in Java (learning to solve problems in efficient way)
+### 📚 Currently Learning
+- Advanced React
+- Backend APIs
+- MongoDB
+- TypeScript
+- DSA in Java
 
 ### My Skills
 - **Languages**: &nbsp;&nbsp;
@@ -25,5 +28,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="18" alt="vscode logo"  /> VS Code &nbsp;&nbsp;
 
 ### Projects
-- [2048 Game](https://github.com/RupanSamanta/2048) - A classic and addictive puzzle game where you combine tiles to reach the 2048 tile
-- [Gemini Clone](https://github.com/RupanSamanta/gemini-clone/) - Gemini 2.0 Clone built using React + Vite
+🎮 [2048 Game](https://github.com/RupanSamanta/2048)
+
+A responsive implementation of the classic puzzle game.
+
+Tech: JavaScript • HTML • CSS
+
+⭐ Features
+- Animations
+- Score Tracking
+- Mobile Support
+
+🤖 [Gemini Clone](https://github.com/RupanSamanta/gemini-clone/)
+
+Gemini 2.0 Clone
+
+- Tech: React + Vite
