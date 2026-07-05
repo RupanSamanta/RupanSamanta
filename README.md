@@ -1,9 +1,12 @@
 ## Hi, I'm [Rupan](https://github.com/RupanSamanta) 👋
 
-- 🎓 CSE (AI & ML) Student
-- 💻 Full Stack Web Developer (MERN)
-- ☕ Java & DSA Enthusiast
-- 🚀 Building interactive web applications and developer tools.
+🎓 CSE (AI & ML) Student
+
+💻 Full Stack Web Developer (MERN)
+
+☕ Java & DSA Enthusiast
+  
+🚀 Building interactive web applications and developer tools.
 
 ### 📚 Currently Learning
 - Advanced React
