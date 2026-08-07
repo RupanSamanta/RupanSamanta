@@ -47,8 +47,9 @@
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **[🤖 Gemini Clone](https://github.com/RupanSamanta/gemini-clone/)** | A modern UI clone of the Gemini 2.0 interface. | React, Vite | [Repository](https://github.com/RupanSamanta/gemini-clone/) |
+| **[Password Generator](https://github.com/RupanSamanta/password-generator/)** | A lightweight and highly customizable repository for generating secure, randomized passwords. | React, Vite | [Repository](https://github.com/RupanSamanta/gemini-clone/) |
 | **[🎮 2048 Game](https://github.com/RupanSamanta/2048)** | A highly responsive implementation of the classic puzzle game with smooth animations, score tracking, and full mobile support. | HTML, CSS, JavaScript | [Repository](https://github.com/RupanSamanta/2048) |
+| **[🤖 Gemini Clone](https://github.com/RupanSamanta/gemini-clone/)** | A modern UI clone of the Gemini 2.0 interface. | React, Vite | [Repository](https://github.com/RupanSamanta/gemini-clone/) |
 
 <!---
 
