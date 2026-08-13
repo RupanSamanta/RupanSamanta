@@ -12,7 +12,7 @@
 - 🌱 Currently diving deeper into **Advanced React, Backend APIs, MongoDB, TypeScript, and DSA in Java**.
 - 💡 Passionate about problem-solving and writing clean, scalable code.
 - 👯 Looking to collaborate on Open Source projects and full-stack applications.
-- 📫 How to reach me: **[Insert your email or LinkedIn link here]**
+- 📫 How to reach me: **[socials](https://linktr.ee/rupansamanta)**
 
 ---
 
